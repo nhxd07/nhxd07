@@ -1,4 +1,4 @@
-![Header](https://github.com/nhxd07/nhxd07/b282666b9777b9224c2a34c38270187c.jpg)
+![Header](https://github.com/nhxd07/nhxd07/blob/main/b282666b9777b9224c2a34c38270187c.jpg)
 <h1 align="center">Hi 👋, I'm Nhu Hai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhxd07&label=Profile%20views&color=0e75b6&style=flat" alt="nhxd07" /> </p>
 
